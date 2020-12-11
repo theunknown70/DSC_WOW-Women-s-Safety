@@ -1,3 +1,42 @@
 .jumbotron{
- background-color:#F1948A;
+ 
+ background-image: url(ima.jpg);
+ height: 100vh;
+ padding-bottom: 90px;
+
+ height: fit-content;
+ 
+ 
+ 
 }
+.navbar {
+   background-color: #722F37;
+}
+div#css{
+    color: #722F37;
+}
+.blockquote{
+    background-image: url(ima.jpg);
+}
+div#wer{
+    padding-top: 60px;
+     font-size:medium;
+}
+p#ani {
+    padding: 0px 20px 0px 0px;
+    width: 200px;
+    height: 50px;
+    transition: width 0.8s;
+  }
+  
+p#ani:hover {
+    width: 400px;
+  
+   
+   
+    
+}
+button#butt{
+    background-image: url(ima.jpg);
+}
+
