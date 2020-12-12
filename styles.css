@@ -289,5 +289,24 @@ p {
    
 
   }
-  
- 
+  .media{
+    height: 300px;
+    background-color:rgba(253, 196, 205, 0.897);
+  }
+  button#wsp{
+    background-color:#722F37;
+    color: pink;
+  }
+  .media h5{
+    color: rgb(34, 18, 20);
+  }
+  body{
+    background-image:rgb(240, 226, 228);
+  }
+  .card{
+    background-color:rgba(253, 196, 205, 0.897);
+    width:1111px
+  }
+  #rot{
+    transform: rotateX(150deg);
+  }
